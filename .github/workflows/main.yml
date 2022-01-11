@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (each every 7 days 00:00)
+  schedule: [{cron: "0 0 * * 0"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -25,7 +25,7 @@ jobs:
           user: ARISTheGod
           template: classic
           base: metadata
-          config_timezone: Europe/Bucharest
+          config_timezone: Europe/Athens
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: .user.website
