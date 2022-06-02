@@ -5,8 +5,6 @@
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![github-metrics](github-metrics.svg) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARISTheGod&theme=dark&layout=compact" /> |
+| ###Show some ❤️ by starring the repos | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARISTheGod&theme=dark&layout=compact" /> |
 
-
-### Show some ❤️ by starring the repos!
 </div>
