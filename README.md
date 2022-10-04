@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aris</h1>
-<h3 align="center">I am a Student (Web/Game Development & Design), Full-Stack.</h3>
+<h3 align="center">I am a Student (Web/Game Development & Design)</h3>
 
 ## :bar_chart: Stats
 
